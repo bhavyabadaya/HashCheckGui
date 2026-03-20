@@ -43,7 +43,7 @@ HashCheck is currently designed and tested for **Windows 10 & Windows 11**, Linu
 ## Setup & Run Instructions
 
 ### 1. Install Python
-Ensure you have **Python (3.9 is recommended)** installed on Windows. You can install Python here: https://www.python.org/downloads/
+Ensure you have **Python (3.14 is recommended)** installed on Windows. You can install Python here: https://www.python.org/downloads/
 
 ### 2. Download the Project Files
 Place the following files together in the same directory:
